@@ -1,0 +1,47 @@
+h1{
+    font-size: 36px;
+    color: red;
+    background-color: black;
+}
+.meat
+{
+    color: pink;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+.veg
+{
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+}
+.other
+{
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-stretch: expanded;
+}
+.subtitle
+{
+    background-color: blueviolet;
+    color: rgb(255, 115, 0);
+}
+.carb
+{
+    color: rgb(182, 189, 83);
+    font-stretch: extra-expanded;
+}
+.image
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: 2mm;
+    border-style: dashed;
+    border-color: blue;
+}
+h1,.subtitle
+{
+    text-align: center;
+
+}
